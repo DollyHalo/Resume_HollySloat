@@ -3,14 +3,31 @@ body {
 background-color: blueviolet;
 color: aqua;
 font-family: "Merriweather Sans", sans-serif;
+margin-left: auto;
+margin-right: auto;
 }
 h1 {
     text-align: center;
     color:rgb(1, 249, 67);
+    font-size: 40px;
 
 }
 
 
-div class skills {
-    text-align: center;
+h3 {
+    color: greenyellow;
+    font-weight: bolder;
+    font-size: 25px;
 }
+
+
+.green-cat-row {
+    display: flex;
+    align-items: center;
+}
+
+    .about me {
+    font-size: 32;
+    color: hotpink;
+}
+
