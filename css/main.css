@@ -5,6 +5,7 @@ color: aqua;
 font-family: "Merriweather Sans", sans-serif;
 margin-left: auto;
 margin-right: auto;
+
 }
 h1 {
     text-align: center;
@@ -21,9 +22,9 @@ h3 {
 }
 
 
-.green-cat-row {
+.pikachu {
     display: flex;
-    align-items: center;
+    justify-content: center;
 }
 
     .about me {
@@ -31,3 +32,24 @@ h3 {
     color: hotpink;
 }
 
+.yellow-tiger-row {
+        display: flex;
+                background-color: rgb(65, 3, 81);
+                max-width: 800px;
+                margin-left: auto;
+                margin-right: auto;
+                gap: 20px
+}
+
+
+
+
+
+
+
+
+
+
+.pink-link {
+    color: greenyellow;
+}
